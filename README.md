@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecats1105" alt="thecats1105" /></a> </p>
 
-- 🔭 I’m currently working on **Japsik Server**
+- 🔭 I’m currently working on **Japsik's Minecraft Projects**
 
 - 📫 How to reach me **thecats1105@proton.me**
-
-- ⚡ Fun fact **I am cute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/1105thecat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1105thecat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/더캣" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="더캣" height="30" width="40" /></a>
-<a href="https://discord.gg/japsik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="japsik" height="30" width="40" /></a>
+<a href="https://discord.japsik.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Japsik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
